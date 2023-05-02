@@ -1,0 +1,499 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alex",
+      "surnames": "Algarate",
+      "title": "",
+      "description": "I am an economist who has not been able to find his place in the job market but has always been very interested in the computer world. I like to learn a lot of different things, but what I really like and enjoy is self-learning. All my friends are computer scientists and after so much insistence, why not learn something that I like? I have completed 3 Python courses in one month, and I liked it more than I imagined. Especially the part related to data science, which has come to complete that part of me that is analytical and curious. \nSince last year, I have done more than 4 self-projects based on Python and SQL.\n",
+      "avatar": {
+        "alt": "Imagen PNG.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/5664adf0-b0bc-4438-8d16-ccbbfc8abb98_imagen-png.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "Guadalajara",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/AlexAlgarate"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alex-algarate/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Sport as lifestyle. ",
+        "fact": "I have been practicing triathlon since I started in 2012. I think it's a sport in which you can improve your personality in aspects such as tenacity, perseverance or self-improvement and then apply them to life."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Universidad Rey Juan Carlos",
+          "URL": "https://www.urjc.es/"
+        },
+        "roles": [
+          {
+            "name": "Profesor Universitario Econometria Superior",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "Profesor Asociado Econometria Superior en la Universidad Rey Juan Carlos (Madrid). Regresiones lineares, OLS, MLS, regresiones intercuartílicas, datos de panel, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SPSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Strava Analysis",
+          "description": "After realizing that my Garmin watch wasn't recording elevation data after each workout, I created a program that connects to the Strava API, retrieves all my activities, filters the DataFrame to obtain activities with 0 elevation and that meet a couple of other criteria, and then adds the ids of those activities to a list.\n\nLater, that list is used in an automation program using Selenium, which corrects the elevation data within the Strava page (there is a button on the activity page within the editing options).",
+          "URL": "https://github.com/AlexAlgarate/Correct-Elevation-Strava"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Numpy",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Seaborn",
+                "type": "technology"
+              },
+              {
+                "name": "Selenium",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Seaborn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MatPlotlib",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SciPy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Data Analysis with Python DA0101EN",
+        "startDate": "2022-04-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "IBM ",
+          "description": "- Data formatting and normalization.\n- Descriptve statistics, ANOVA, groupby, correlation.\n- Model development (Simple Linear Regression, Multiple Linear Regreesion, Polynomial Regression, pipelines) and prediction/decision making. \n- Model evaluation and refinement (Over/under-fitting and model selection, Ridge Regression, Grid Search",
+          "URL": "https://courses.cognitiveclass.ai/certificates/320211eab1644971b11f9fc253f33067",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/21/e62b7c73-7363-4e83-b44b-e35f0278ec20_unnamed.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SciPy",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Data Visualization with Python DV0101EN ",
+        "startDate": "2022-04-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "IBM ",
+          "description": "Introduction to Matplotlib (basic plotting, line plots).\nBasic visualization tools (area plots, histograms, bar charts).\nSpecialized visualization tools (Pie charts, box plots, scatter plots and bubble plots).\nAdvanced visualization tools (Waffle charts, word clouds, Seaborn and Regression plots).\nIntroduction to Folium (Maps with markers and choropleth maps).",
+          "URL": "https://courses.cognitiveclass.ai/certificates/3c20abbf7f58476f9b89b9ea8950b098",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/21/b0d63c32-29d6-4bfe-ab9f-b80097711df0_unnamed.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SciPy",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Python for Data Science  PY0101EN",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "IBM ",
+          "description": "Python basics (expressions, variables, strings, etc.)\nData structures (lists, sets, tuples, dicts, etc.)\nProgramming fundamentals (conditions, loops, functions, etc.)\nNumpy arrays and simple APIs\n",
+          "URL": "https://courses.cognitiveclass.ai/certificates/b861c0c6f6fa4fd496f8ebde2870e25b",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/21/086036c3-a892-437e-93f0-63967c18b920_unnamed.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SciPy",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in Applied Economic Analysis ",
+        "startDate": "2016-10-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "Universidad de Alcalá de Henares ",
+          "description": "Data base analysis (INE, SES) with econometric analysis software (Stata and R). \nLabor market analysis (wage gaps, temporality on the labor market, etc.) \nMaster's Thesis (distinction with honour): The gender wage gap between Spain, Norway and United Kingdom in 2006 and 2010. ",
+          "URL": "https://www.uah.es/es/estudios/Analisis-Economico-Aplicado/",
+          "image": {
+            "alt": "Logo-UAH.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/21/fc390c68-35ba-4ffc-b00c-b829fd594bdf_logo-uah.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "SPSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Economy",
+        "startDate": "2011-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Universidad de Alcalá de Henares ",
+          "description": "Fundamentals of Economics Theories. \nBasic statistics tools (Eviews, Stata) ",
+          "URL": "https://www.uah.es/es/",
+          "image": {
+            "alt": "Logo-UAH.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/21/bdbce3ad-e2b7-4a70-ae76-fbd42ee89da6_logo-uah.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          },
+          {
+            "name": "SPSS",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alex-algarate/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Jupyter",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "MatPlotlib",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Numpy",
+          "type": "technology"
+        },
+        {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Pytest",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SciPy",
+          "type": "technology"
+        },
+        {
+          "name": "Tableau",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "Data Scientist",
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
