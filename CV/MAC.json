@@ -1,14 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Alex",
       "surnames": "Algarate",
-      "title": "",
       "description": "\nI am an aspiring tech professional with a background in economics and a passion for numbers, data analysis, and programming. Despite not having found my niche in the job market yet, I have always enjoyed tinkering with tables and graphs in Excel and analyzing time series and causalities in my studies. I have been studying Python for over a year and have developed several personal projects to apply my skills. My interest in computer science is unwavering, and I am particularly drawn to the field of data science. I am a self-motivated learner and have honed my skills through independent study. While I have not yet worked on programming projects as part of a team, I am eager to collaborate and learn from others in a professional setting. As I look for my first tech job, I am excited to apply my skills and knowledge in a dynamic and challenging environment that will allow me to grow and develop as a professional.",
       "avatar": {
         "alt": "Imagen PNG.png",
@@ -17,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Guadalajara",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Guadalajara"
       }
     },
     "relevantLinks": [
@@ -47,6 +45,10 @@
       {
         "organization": {
           "name": "Universidad Rey Juan Carlos",
+          "image": {
+            "alt": "1200px-URJC_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/04/639e2e41-3c76-40dc-9794-848faef981f3_1200px-urjc_logo.png"
+          },
           "URL": "https://www.urjc.es/"
         },
         "roles": [
@@ -119,12 +121,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -501,31 +501,6 @@
         "Data Scientist",
         "QA & Testing Engineer"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "Pytest",
-        "type": "technology"
-      },
-      {
-        "name": "PostgreSQL",
-        "type": "technology"
-      },
-      {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Pandas",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
