@@ -74,8 +74,8 @@
     "projects": [
       {
         "details": {
-          "name": "Strava Analysis",
-          "description": "After realizing that my Garmin watch wasn't recording elevation data after each workout, I created a program that connects to the Strava API, retrieves all my activities, filters the DataFrame to obtain activities with 0 elevation and that meet a couple of other criteria, and then adds the ids of those activities to a list.\n\nLater, that list is used in an automation program using Selenium, which corrects the elevation data within the Strava page (there is a button on the activity page within the editing options).",
+          "name": "Strava Correct Elevation",
+          "description": "After realizing that my Garmin watch wasn't recording elevation data after each workout, I created a program that connects to the Strava API, retrieves my last 100 activities, filters the DataFrame to obtain activities with 0 meters of gain elevation and that meet a couple of other criteria. Finally, it adds the ids of those activities to a list.\n\nLater, that list is used in an automation program using Selenium, which corrects the elevation data within the Strava page (there is a button on the activity page within the editing options).",
           "URL": "https://github.com/AlexAlgarate/Correct-Elevation-Strava"
         },
         "type": "openSource",
@@ -89,19 +89,15 @@
                 "type": "technology"
               },
               {
-                "name": "Numpy",
-                "type": "technology"
-              },
-              {
                 "name": "Pandas",
                 "type": "technology"
               },
               {
-                "name": "Python",
+                "name": "Pytest",
                 "type": "technology"
               },
               {
-                "name": "Seaborn",
+                "name": "Python",
                 "type": "technology"
               },
               {
