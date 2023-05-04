@@ -130,25 +130,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Numpy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Excel",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Pytest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Seaborn",
           "type": "technology"
         }
       },
@@ -184,31 +172,19 @@
       },
       {
         "skill": {
-          "name": "R",
+          "name": "Seaborn",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MatPlotlib",
+          "name": "Numpy",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SciPy",
+          "name": "Microsoft Excel",
           "type": "technology"
         }
       },
@@ -220,13 +196,37 @@
       },
       {
         "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SciPy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jupyter",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "MatPlotlib",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
           "type": "technology"
         }
       }
@@ -503,5 +503,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Pytest",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Pandas",
+        "type": "technology"
+      }
+    ]
   }
 }
