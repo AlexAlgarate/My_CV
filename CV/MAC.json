@@ -252,7 +252,7 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -288,19 +288,7 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Numpy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pandas",
           "type": "technology"
         }
       },
@@ -319,18 +307,6 @@
       {
         "skill": {
           "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "R",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SciPy",
           "type": "technology"
         }
       },
@@ -650,15 +626,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Git",
+        "name": "CSS",
         "type": "technology"
       },
       {
-        "name": "Pandas",
-        "type": "technology"
-      },
-      {
-        "name": "PostgreSQL",
+        "name": "Github",
         "type": "technology"
       },
       {
