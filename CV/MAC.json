@@ -76,6 +76,67 @@
     "projects": [
       {
         "details": {
+          "name": "Restaurante Ostras Nin",
+          "description": "Proyecto de desarrollo web con Python usando el framework Reflex (https://reflex.dev). Con él he creado la página web de mantenimiento del Restaurante Ostras Nin (Cantabria) hasta que la página oficial esté completamente terminada y desplegada. El proyecto usa Python como lenguaje principal, además de CSS, Next.js, React. El despliegue en producción lo hago aplicando CI/CD para automatizar el proceso en Vercel mediante Github Actions.",
+          "URL": "https://ostrasnin.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/08/368f8b82-ecaa-4720-b282-abed10257e91_logo-ostrasnin.png",
+            "alt": "logo-ostrasnin.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Shell",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Gestor de invitaciones de boda",
           "description": "Como este año (2024) me voy a casar y no quería hacer las invitaciones de boda en papel (hay que cuidar el medio ambiente!) decidí programar yo la página web de mi boda donde se expondría toda la información del evento. Para ello he usado Reflex, un framework de Python para desarrollar el frontend (también se puede hacer backend con FastAPI). Lo he desplegado en Vercel mediante una automatización desplegada en las GitHub Actions ",
           "URL": "https://boda-vicky-alex.vercel.app/"
@@ -614,6 +675,9 @@
     "projects": [
       {
         "name": "Gestor de invitaciones de boda"
+      },
+      {
+        "name": "Restaurante Ostras Nin"
       },
       {
         "name": "Strava Correct Elevation"
