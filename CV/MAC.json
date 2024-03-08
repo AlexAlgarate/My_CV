@@ -80,8 +80,8 @@
           "description": "After realizing that my Garmin watch wasn't recording elevation data after each workout, I created a program that connects to the Strava API, retrieves my last 100 activities, filters the DataFrame to obtain activities with 0 meters of gain elevation and that meet a couple of other criteria. Finally, it adds the ids of those activities to a list.\n\nLater, that list is used in an automation program using Selenium, which corrects the elevation data within the Strava page (there is a button on the activity page within the editing options).",
           "URL": "https://github.com/AlexAlgarate/Correct-Elevation-Strava",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/08/e16816ef-c082-4aa9-ad12-556b31d0e833_strava.jpeg",
-            "alt": "strava.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/08/e8d0ed01-6beb-40b3-897f-6be4f65e9002_descarga.png",
+            "alt": "descarga.png"
           }
         },
         "type": "openSource",
