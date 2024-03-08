@@ -258,6 +258,12 @@
       },
       {
         "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "GitLab",
           "type": "technology"
         }
@@ -627,6 +633,10 @@
     "mainStackTechs": [
       {
         "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Fastapi",
         "type": "technology"
       },
       {
