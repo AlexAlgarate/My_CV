@@ -76,6 +76,55 @@
     "projects": [
       {
         "details": {
+          "name": "Gestor de invitaciones de boda",
+          "description": "Como este año (2024) me voy a casar y no quería hacer las invitaciones de boda en papel (hay que cuidar el medio ambiente!) decidí programar yo la página web de mi boda donde se expondría toda la información del evento. Para ello he usado Reflex, un framework de Python para desarrollar el frontend (también se puede hacer backend con FastAPI). Lo he desplegado en Vercel mediante una automatización desplegada en las GitHub Actions ",
+          "URL": "https://boda-vicky-alex.vercel.app/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Shell",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Strava Correct Elevation",
           "description": "After realizing that my Garmin watch wasn't recording elevation data after each workout, I created a program that connects to the Strava API, retrieves my last 100 activities, filters the DataFrame to obtain activities with 0 meters of gain elevation and that meet a couple of other criteria. Finally, it adds the ids of those activities to a list.\n\nLater, that list is used in an automation program using Selenium, which corrects the elevation data within the Strava page (there is a button on the activity page within the editing options).",
           "URL": "https://github.com/AlexAlgarate/Correct-Elevation-Strava",
@@ -563,6 +612,9 @@
     "desiredJobDescription": "My ideal job would be one where I can develop analytical skills that I could not use in my last jobs. This is why I started studying Python and SQL 1 year ago. Furthermore, I want to make a 180-degree turn to improve my job position.\n\n\n\n",
     "goodPractices": "KISS, SOLID, YAGNI, CI/CD... Todo eso puede sonar un poco extraño para un junior como pudiera llegar a ser yo con el tiempo, pero siendo como soy, que voy más allá del perfeccionismo, me encanta que mi código reluzca. Y pese a que aún no he trabajado en le mundo de la programación, muchas de las buenas prácticas las llevo a cabo en mis proyectos personales (CI/CD, testing unitario, etc.). \n ",
     "projects": [
+      {
+        "name": "Gestor de invitaciones de boda"
+      },
       {
         "name": "Strava Correct Elevation"
       }
