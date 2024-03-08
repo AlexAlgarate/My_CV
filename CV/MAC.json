@@ -557,7 +557,7 @@
       }
     ],
     "desiredJobDescription": "My ideal job would be one where I can develop analytical skills that I could not use in my last jobs. This is why I started studying Python and SQL 1 year ago. Furthermore, I want to make a 180-degree turn to improve my job position.\n\n\n\n",
-    "goodPractices": "KISS, SOLID, YAGNI, CD/CI... It may all sound like \"Chinese\" to a junior developer, and I am one, but since I care about writing good code, I became interested in doing it well from the very beginning. That's why I bought the book Clean Code, and I continue to study what good practices are and, above all, I try to apply them to every line I write in my personal projects",
+    "goodPractices": "KISS, SOLID, YAGNI, CI/CD... Todo eso puede sonar un poco extraño para un junior como pudiera llegar a ser yo con el tiempo, pero siendo como soy, que voy más allá del perfeccionismo, me encanta que mi código reluzca. Y pese a que aún no he trabajado en le mundo de la programación, muchas de las buenas prácticas las llevo a cabo en mis proyectos personales (CI/CD, testing unitario, etc.). \n ",
     "projects": [
       {
         "name": "Strava Correct Elevation"
