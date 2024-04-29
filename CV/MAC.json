@@ -306,12 +306,6 @@
       },
       {
         "skill": {
-          "name": "Pytest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -622,7 +616,7 @@
         }
       ],
       "preferredRoles": [
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Scientist",
         "QA & Testing Engineer"
       ]
@@ -644,7 +638,7 @@
         "type": "technology"
       },
       {
-        "name": "Pytest",
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
