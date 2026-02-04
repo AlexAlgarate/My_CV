@@ -232,7 +232,7 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Web Wedding INvitation",
+          "name": "Web Wedding Invitation",
           "description": "Lanzamiento de una página web para bodas totalmente personalizada usando Python como stack tecnológico principal, apoyándose en JavaScript, CSS y React. \nLa aplicación web usa componentes reutilizables totalmente personalizados. ",
           "URL": "https://boda-vicky-alex.vercel.app/"
         },
