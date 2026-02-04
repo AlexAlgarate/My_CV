@@ -522,6 +522,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Proactividad",
           "type": "practice"
         }
@@ -648,7 +654,7 @@
       }
     ],
     "desiredJobDescription": "Mi trabajo ideal es aquel en el que pueda seguir aprendiendo algo nuevo día a día. Si luego además puedo aportar valor adicional allá donde esté, ¡mejor que mejor!\nEse trabajo me gustaría que me permita disfrutar mi pasión por el ciclismo y que a la vez me haga crecer profesionalmnte en el sector IT. Me encantaría estar en un grupo de desarrollo donde todos colaboremos a partes iguales.\n\n\n\n",
-    "goodPractices": "KISS, SOLID, YAGNI, CI/CD... Todo eso puede sonar un poco extraño para un junior, pero siendo como soy, que voy más allá del perfeccionismo, me encanta que mi código reluzca. Y pese a que aún no he trabajado en el mundo de la programación, muchas de las buenas prácticas las llevo a cabo en mis proyectos personales (CI/CD, testing unitario, etc.). \n ",
+    "goodPractices": "SOLID, Clean Architecture/Hexagonal Architecture, CI/CD, TDD... Todo eso puede sonar un poco extraño para un junior, pero siendo una persona que cuida mucho los detalles, me encanta que el código reluzca. ¡El Clean Code es EL LIBRO de mesilla de noche! \nY todas esas buenas prácticas trato de aplicarlas tanto en proyectos personales como en todas las pruebas y proyectos del Bootcamp Web Full Stack. ",
     "projects": [
       {
         "name": "Gestor de invitaciones de boda"
