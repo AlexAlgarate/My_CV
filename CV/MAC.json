@@ -76,7 +76,7 @@
     "projects": [
       {
         "details": {
-          "name": "Product",
+          "name": "Product React Project",
           "description": "Aplicación web para la gestión de productos con autenticación de usuarios. Permite crear, listar, editar y eliminar productos con un sistema de filtros avanzado.\nLas tencologías empleadas son React, React Router para la navegación, Tailwind CSS para estilos, Lucide React para iconos y Vite como build tool. Todo ello usando TypeScript para mantener la coherencia y la buena legibilidad del código. ",
           "URL": "https://github.com/AlexAlgarate/Product-Project-React",
           "image": {
@@ -804,7 +804,7 @@
         "name": "Node Pop"
       },
       {
-        "name": "Product"
+        "name": "Product React Project"
       },
       {
         "name": "Restaurante Ostras Nin"
