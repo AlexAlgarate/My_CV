@@ -198,7 +198,11 @@
         "details": {
           "name": "Zaidin Coffee Scraper",
           "description": "Scrapper de una página web de café para mostrar en la consola en formato Markdown la colección de productos de su cátalogo junto al precio/kg y el método de extracción de ese café. \nPara scrappear la información se usa Playwrigth, librería conocida por usarse en testing E2E y en proyectos de scrapping. El proyecto está escrito en Python y pese a la simplicidad que se podría haber usado para este fin, a modo didáctico, es un proyecto colaborativo donde implementamos una arquitectura hexagonal.  ",
-          "URL": "https://github.com/AlexAlgarate/ZaidinCoffeeScraper"
+          "URL": "https://github.com/AlexAlgarate/ZaidinCoffeeScraper",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/04/4562c249-aad0-4446-b887-b53b69069265_cafes-zaidin.png",
+            "alt": "Cafes-Zaidin.png"
+          }
         },
         "type": "openSource",
         "roles": [
