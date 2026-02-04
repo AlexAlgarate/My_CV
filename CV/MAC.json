@@ -466,6 +466,83 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Bootcamp Web Full Stack",
+        "startDate": "2025-07-01",
+        "institution": {
+          "name": "Keepcoding",
+          "description": "Bootcamp de Desarrollo Web Full Stack con una duración de 10 meses. Centrado en enseñar las últimas tecnologías de desarrollo web junto con los principios de la programación y las bases. \nDespués de cada módulo de desarrollo web hay que entregar una práctica evaluable.\nEl temario incluye módulos de HTML, CSS y JavaScript. SQL usando PostgreSQL, módulos de backend usando Express y MongoDB, CSS avanzado, React, etc. ",
+          "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/04/fab600c5-145a-4657-be9e-5c8b3f597c70_31599428.jpeg",
+            "alt": "31599428.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostCSS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "web hosting",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Data Analysis with Python DA0101EN",
