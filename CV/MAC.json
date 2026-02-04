@@ -76,6 +76,30 @@
     "projects": [
       {
         "details": {
+          "name": "Zaidin Coffee Scraper",
+          "description": "Scrapper de una página web de café para mostrar en la consola en formato Markdown la colección de productos de su cátalogo junto al precio/kg y el método de extracción de ese café. \nPara scrappear la información se usa Playwrigth, librería conocida por usarse en testing E2E y en proyectos de scrapping. El proyecto está escrito en Python y pese a la simplicidad que se podría haber usado para este fin, a modo didáctico, es un proyecto colaborativo donde implementamos una arquitectura hexagonal.  ",
+          "URL": "https://github.com/AlexAlgarate/ZaidinCoffeeScraper"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-07-01",
+            "competences": [
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Restaurante Ostras Nin",
           "description": "Proyecto de desarrollo web con Python usando el framework Reflex (https://reflex.dev). Con él he creado la página web de mantenimiento del Restaurante Ostras Nin (Cantabria) hasta que la página oficial esté completamente terminada y desplegada. El proyecto usa Python como lenguaje principal, además de CSS, Next.js, React. El despliegue en producción lo hago aplicando CI/CD para automatizar el proceso en Vercel mediante Github Actions.",
           "URL": "https://ostrasnin.com/",
@@ -696,6 +720,9 @@
       },
       {
         "name": "Strava Correct Elevation"
+      },
+      {
+        "name": "Zaidin Coffee Scraper"
       }
     ]
   }
