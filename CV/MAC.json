@@ -46,6 +46,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "General Servei"
+        },
+        "roles": [
+          {
+            "name": "Planificador de producción",
+            "startDate": "2022-05-01",
+            "finishDate": "2025-04-01",
+            "challenges": [
+              {
+                "description": "Planificador de la producción de una planta de empacados y retractilados (40-120 personas a cargo en función de las necesidades productivas del momento).\nEncargado de automatizar tareas cotidianas usando scripts de bash y macros en VBA."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "VBA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad Rey Juan Carlos",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/04/639e2e41-3c76-40dc-9794-848faef981f3_1200px-urjc_logo.png",
