@@ -488,12 +488,6 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -895,8 +889,7 @@
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
-        "Full-stack Developer",
-        "QA & Testing Engineer"
+        "Full-stack Developer"
       ]
     },
     "status": "searchingActively",
@@ -917,7 +910,7 @@
         "type": "technology"
       },
       {
-        "name": "Python",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
