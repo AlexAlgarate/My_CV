@@ -76,6 +76,55 @@
     "projects": [
       {
         "details": {
+          "name": "Node Pop",
+          "description": "Nodepop es una aplicación web moderna desarrollada con Node.js que permite la gestión y visualización de anuncios de compraventa. La aplicación proporciona tanto una interfaz web como una API RESTful para la gestión de productos. La aplicación tiene persistencia en una base de datos NOSQL desplegada en MongoDB.",
+          "URL": "https://github.com/AlexAlgarate/Nodepop-KeepCoding",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/04/649986fb-372f-4e31-9502-426b31ac711f_chatgpt-image-4-feb-.png",
+            "alt": "ChatGPT Image 4 feb 2026, 12_53_31.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-11-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Zaidin Coffee Scraper",
           "description": "Scrapper de una página web de café para mostrar en la consola en formato Markdown la colección de productos de su cátalogo junto al precio/kg y el método de extracción de ese café. \nPara scrappear la información se usa Playwrigth, librería conocida por usarse en testing E2E y en proyectos de scrapping. El proyecto está escrito en Python y pese a la simplicidad que se podría haber usado para este fin, a modo didáctico, es un proyecto colaborativo donde implementamos una arquitectura hexagonal.  ",
           "URL": "https://github.com/AlexAlgarate/ZaidinCoffeeScraper"
@@ -714,6 +763,9 @@
     "projects": [
       {
         "name": "Gestor de invitaciones de boda"
+      },
+      {
+        "name": "Node Pop"
       },
       {
         "name": "Restaurante Ostras Nin"
