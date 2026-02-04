@@ -76,6 +76,42 @@
     "projects": [
       {
         "details": {
+          "name": "Product",
+          "description": "Aplicación web para la gestión de productos con autenticación de usuarios. Permite crear, listar, editar y eliminar productos con un sistema de filtros avanzado.\nLas tencologías empleadas son React, React Router para la navegación, Tailwind CSS para estilos, Lucide React para iconos y Vite como build tool. Todo ello usando TypeScript para mantener la coherencia y la buena legibilidad del código. ",
+          "URL": "https://github.com/AlexAlgarate/Product-Project-React",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/04/d67985e0-496d-4522-9a0b-d21344e98f46_images.png",
+            "alt": "images.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-01-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Node Pop",
           "description": "Nodepop es una aplicación web moderna desarrollada con Node.js que permite la gestión y visualización de anuncios de compraventa. La aplicación proporciona tanto una interfaz web como una API RESTful para la gestión de productos. La aplicación tiene persistencia en una base de datos NOSQL desplegada en MongoDB.",
           "URL": "https://github.com/AlexAlgarate/Nodepop-KeepCoding",
@@ -766,6 +802,9 @@
       },
       {
         "name": "Node Pop"
+      },
+      {
+        "name": "Product"
       },
       {
         "name": "Restaurante Ostras Nin"
