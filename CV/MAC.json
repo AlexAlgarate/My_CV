@@ -228,6 +228,38 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Web Wedding INvitation",
+          "description": "Lanzamiento de una página web para bodas totalmente personalizada usando Python como stack tecnológico principal, apoyándose en JavaScript, CSS y React. \nLa aplicación web usa componentes reutilizables totalmente personalizados. ",
+          "URL": "https://boda-vicky-alex.vercel.app/"
+        },
+        "type": "launch",
+        "publishingDate": "2024-01-01",
+        "tags": [
+          "Web Wedding Invitation"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
