@@ -923,7 +923,7 @@
       }
     ],
     "desiredJobDescription": "Mi trabajo ideal es aquel en el que pueda seguir aprendiendo algo nuevo día a día. Si luego además puedo aportar valor adicional allá donde esté, ¡mejor que mejor!\nEse trabajo me gustaría que me permita disfrutar mi pasión por el ciclismo y que a la vez me haga crecer profesionalmnte en el sector IT. Me encantaría estar en un grupo de desarrollo donde todos colaboremos a partes iguales.\n\n\n\n",
-    "goodPractices": "Intento aplicar buenas prácticas de desarrollo de forma constante en mis proyectos, tanto personales como del Bootcamp Full Stack. Me interesa especialmente escribir código claro, mantenible y bien estructurado (SOLID, Clean/Hexagonal Architecture, TDD, CI/CD)\nFan del Clean Code, ¡mi libro de playa!\nMe gusta escribir código y luego dedicar tiempo a refactorizarlo y simplificar soluciones.",
+    "goodPractices": "Clean Code no solo está en mi biblioteca, está en mi día a día. Cada proyecto es una oportunidad para aplicar SOLID, Clean Architectures y TDD. Mi regla: si una función necesita comentarios para entenderse, probablemente necesita refactoring. Me gustan más diez funciones autoexplicativas que una de cien líneas. El código mantenible no es casualidad, es disciplina.",
     "projects": [
       {
         "name": "Gestor de invitaciones de boda"
