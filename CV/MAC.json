@@ -522,12 +522,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Atención al detalle",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Proactividad",
           "type": "practice"
         }
