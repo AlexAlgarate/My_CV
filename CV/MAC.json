@@ -393,13 +393,19 @@
       },
       {
         "skill": {
-          "name": "Fastapi",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastify",
           "type": "technology"
         }
       },
@@ -411,37 +417,37 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MatPlotlib",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Excel",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Numpy",
+          "name": "MySQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Pandas",
+          "name": "NextJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -453,13 +459,25 @@
       },
       {
         "skill": {
-          "name": "Seaborn",
+          "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -851,11 +869,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
-        "type": "technology"
-      },
-      {
-        "name": "Fastapi",
+        "name": "Express",
         "type": "technology"
       },
       {
@@ -863,11 +877,15 @@
         "type": "technology"
       },
       {
-        "name": "PostgreSQL",
+        "name": "Python",
         "type": "technology"
       },
       {
-        "name": "Python",
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
